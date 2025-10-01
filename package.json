@@ -19,6 +19,7 @@
     "axios": "^1.12.2",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-is": "^19.1.1",
     "react-router-dom": "^7.9.3",
     "react-scripts": "5.0.1",
     "socket.io-client": "^4.8.1",
@@ -48,5 +49,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "overrides": {
+    "react-is": "^18.3.1"
   }
 }
